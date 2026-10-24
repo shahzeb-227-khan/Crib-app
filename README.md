@@ -182,4 +182,4 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 
 ## License
 
-[MIT](LICENSE) © 2026 Muhammad Ahmed Saleem Khan
+[MIT](LICENSE) © 2026 Muhammad Shahzeb Alam
