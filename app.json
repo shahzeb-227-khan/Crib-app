@@ -18,9 +18,9 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png",
         "package": "com.ned.se23055"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.ned.se23055"
     },
-
     "web": {
       "output": "static",
       "favicon": "./assets/images/favicon.png"
@@ -42,6 +42,12 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "6eab897b-f46f-456c-9b94-69444577ca7f"
+      }
     }
   }
 }
